@@ -50,7 +50,7 @@ Instead of asking *"Did I complete today's task?"*, the application helps answer
 
 Mobile is treated as a distinct experience rather than just a scaled-down desktop screen.
 
-```text
+```python
                          USER
                           │
                           ▼
